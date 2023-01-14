@@ -1,0 +1,15 @@
+2021-12-23 02:58:51,880 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-23 02:58:51,883 Found 6 citations for tools or databases
+2021-12-23 02:58:57,503 Query 1/1: 6v1a (length 373)
+2021-12-23 02:59:07,898 Running model_3
+2021-12-23 03:04:55,060 model_3 took 347.2s (None recycles) with pLDDT 94.5 and ptmscore 0.918
+2021-12-23 03:05:35,173 Running model_4
+2021-12-23 03:09:54,554 model_4 took 259.4s (None recycles) with pLDDT 95 and ptmscore 0.919
+2021-12-23 03:10:26,995 Running model_5
+2021-12-23 03:14:46,941 model_5 took 259.9s (None recycles) with pLDDT 94.3 and ptmscore 0.9
+2021-12-23 03:15:17,330 Running model_1
+2021-12-23 03:19:37,547 model_1 took 260.2s (None recycles) with pLDDT 95.8 and ptmscore 0.924
+2021-12-23 03:20:10,745 Running model_2
+2021-12-23 03:24:31,571 model_2 took 260.8s (None recycles) with pLDDT 92.8 and ptmscore 0.886
+2021-12-23 03:25:03,883 reranking models based on average ptmscore
+2021-12-23 03:25:09,962 Done

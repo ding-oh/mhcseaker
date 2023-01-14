@@ -1,0 +1,68 @@
+2021-12-22 23:19:52,233 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-22 23:19:52,236 Found 6 citations for tools or databases
+2021-12-22 23:19:58,169 Query 1/1: 6cpo (length 373)
+2021-12-22 23:19:59,442 Sleeping for 9s. Reason: RATELIMIT
+2021-12-22 23:20:09,751 Sleeping for 7s. Reason: RATELIMIT
+2021-12-22 23:20:18,032 Sleeping for 5s. Reason: RATELIMIT
+2021-12-22 23:20:24,308 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:20:35,583 Sleeping for 5s. Reason: RATELIMIT
+2021-12-22 23:20:41,853 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:20:49,106 Sleeping for 7s. Reason: RATELIMIT
+2021-12-22 23:20:57,353 Sleeping for 5s. Reason: RATELIMIT
+2021-12-22 23:21:03,625 Sleeping for 8s. Reason: RATELIMIT
+2021-12-22 23:21:12,900 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:21:24,180 Sleeping for 7s. Reason: RATELIMIT
+2021-12-22 23:21:32,453 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:21:39,727 Sleeping for 7s. Reason: RATELIMIT
+2021-12-22 23:21:47,974 Sleeping for 9s. Reason: RATELIMIT
+2021-12-22 23:21:58,222 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:22:09,471 Sleeping for 8s. Reason: RATELIMIT
+2021-12-22 23:22:18,748 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:22:26,027 Sleeping for 5s. Reason: RATELIMIT
+2021-12-22 23:22:32,333 Sleeping for 7s. Reason: RATELIMIT
+2021-12-22 23:22:40,609 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:22:51,859 Sleeping for 9s. Reason: RATELIMIT
+2021-12-22 23:23:02,167 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:23:09,442 Sleeping for 9s. Reason: RATELIMIT
+2021-12-22 23:23:19,691 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:23:30,972 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:23:42,227 Sleeping for 5s. Reason: RATELIMIT
+2021-12-22 23:23:48,501 Sleeping for 8s. Reason: RATELIMIT
+2021-12-22 23:23:57,777 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:24:05,141 Sleeping for 6s. Reason: PENDING
+2021-12-22 23:24:12,388 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:24:23,656 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:24:34,913 Sleeping for 7s. Reason: RUNNING
+2021-12-22 23:24:43,185 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:24:54,465 Sleeping for 7s. Reason: RUNNING
+2021-12-22 23:25:02,734 Sleeping for 7s. Reason: RUNNING
+2021-12-22 23:25:11,012 Sleeping for 5s. Reason: RUNNING
+2021-12-22 23:25:17,286 Sleeping for 7s. Reason: RUNNING
+2021-12-22 23:25:25,564 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:25:36,844 Sleeping for 9s. Reason: RUNNING
+2021-12-22 23:25:47,124 Sleeping for 5s. Reason: RUNNING
+2021-12-22 23:25:53,400 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:26:04,675 Sleeping for 9s. Reason: RUNNING
+2021-12-22 23:26:14,931 Sleeping for 5s. Reason: RUNNING
+2021-12-22 23:26:21,199 Sleeping for 8s. Reason: RUNNING
+2021-12-22 23:26:30,472 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:26:41,721 Sleeping for 7s. Reason: RUNNING
+2021-12-22 23:26:49,998 Sleeping for 6s. Reason: RUNNING
+2021-12-22 23:26:57,268 Sleeping for 5s. Reason: RUNNING
+2021-12-22 23:27:03,536 Sleeping for 9s. Reason: RUNNING
+2021-12-22 23:27:18,131 Sleeping for 7s. Reason: PENDING
+2021-12-22 23:27:26,408 Sleeping for 10s. Reason: RUNNING
+2021-12-22 23:27:37,681 Sleeping for 5s. Reason: RUNNING
+2021-12-22 23:27:43,931 Sleeping for 9s. Reason: RUNNING
+2021-12-22 23:27:56,335 Running model_3
+2021-12-22 23:33:45,497 model_3 took 349.2s (None recycles) with pLDDT 95.4 and ptmscore 0.924
+2021-12-22 23:34:26,177 Running model_4
+2021-12-22 23:38:49,679 model_4 took 263.5s (None recycles) with pLDDT 96.1 and ptmscore 0.93
+2021-12-22 23:39:20,101 Running model_5
+2021-12-22 23:43:42,744 model_5 took 262.6s (None recycles) with pLDDT 95.7 and ptmscore 0.922
+2021-12-22 23:44:13,461 Running model_1
+2021-12-22 23:48:38,028 model_1 took 264.6s (None recycles) with pLDDT 96 and ptmscore 0.926
+2021-12-22 23:49:08,495 Running model_2
+2021-12-22 23:53:33,499 model_2 took 265.0s (None recycles) with pLDDT 95.8 and ptmscore 0.927
+2021-12-22 23:54:04,040 reranking models based on average ptmscore
+2021-12-22 23:54:10,099 Done

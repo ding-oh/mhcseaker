@@ -1,0 +1,23 @@
+2021-12-22 23:02:55,531 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-22 23:02:55,534 Found 6 citations for tools or databases
+2021-12-22 23:03:04,116 Query 1/1: 1kg0 (length 373)
+2021-12-22 23:03:05,443 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:03:12,758 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:03:28,447 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:03:35,695 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:03:46,968 Sleeping for 9s. Reason: RATELIMIT
+2021-12-22 23:03:57,218 Sleeping for 10s. Reason: RATELIMIT
+2021-12-22 23:04:08,475 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:04:15,746 Sleeping for 6s. Reason: RATELIMIT
+2021-12-22 23:04:22,997 Sleeping for 7s. Reason: RATELIMIT
+2021-12-22 23:04:33,516 Running model_3
+2021-12-22 23:07:57,866 model_3 took 204.3s (None recycles) with pLDDT 95.2 and ptmscore 0.92
+2021-12-22 23:08:40,099 Running model_4
+2021-12-22 23:10:27,618 model_4 took 107.5s (None recycles) with pLDDT 95.3 and ptmscore 0.919
+2021-12-22 23:11:00,085 Running model_5
+2021-12-22 23:12:47,700 model_5 took 107.6s (None recycles) with pLDDT 95.9 and ptmscore 0.925
+2021-12-22 23:13:18,450 Running model_1
+2021-12-22 23:15:04,091 model_1 took 105.6s (None recycles) with pLDDT 94.6 and ptmscore 0.915
+2021-12-22 23:15:34,324 Running model_2
+2021-12-22 23:17:19,417 model_2 took 105.1s (None recycles) with pLDDT 94.3 and ptmscore 0.914
+2021-12-22 23:17:50,007 reranking models based on average ptmscore

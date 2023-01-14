@@ -1,0 +1,95 @@
+2021-12-23 00:15:09,251 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-23 00:15:09,253 Found 6 citations for tools or databases
+2021-12-23 00:15:15,695 Query 1/1: 6atf (length 373)
+2021-12-23 00:15:16,970 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:15:26,218 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:15:35,524 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:15:42,801 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:15:49,077 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:15:57,356 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:16:07,633 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:16:13,909 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:16:20,194 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:16:29,474 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:16:40,725 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:16:47,992 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:16:57,253 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:17:04,502 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:17:11,787 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:17:18,042 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:17:27,318 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:17:35,596 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:17:52,395 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:17:58,649 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:18:06,942 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:18:15,259 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:18:23,504 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:18:33,758 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:18:43,036 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:18:53,323 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:19:03,582 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:19:13,847 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:19:21,126 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:19:31,384 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:19:39,639 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:19:45,953 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:19:57,205 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:20:05,467 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:20:12,732 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:20:21,044 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:20:28,311 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:20:34,593 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:20:42,893 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:20:49,174 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:21:00,455 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:21:06,745 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:21:15,000 Sleeping for 8s. Reason: RATELIMIT
+2021-12-23 00:21:24,260 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:21:35,536 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:21:41,828 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:21:50,088 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:22:00,336 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:22:11,645 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:22:18,901 Sleeping for 6s. Reason: RATELIMIT
+2021-12-23 00:22:26,192 Sleeping for 7s. Reason: RATELIMIT
+2021-12-23 00:22:34,468 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:22:44,757 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:22:56,020 Sleeping for 5s. Reason: RATELIMIT
+2021-12-23 00:23:02,271 Sleeping for 9s. Reason: RATELIMIT
+2021-12-23 00:23:12,535 Sleeping for 10s. Reason: RATELIMIT
+2021-12-23 00:23:23,885 Sleeping for 6s. Reason: PENDING
+2021-12-23 00:23:31,169 Sleeping for 8s. Reason: RUNNING
+2021-12-23 00:23:40,442 Sleeping for 10s. Reason: RUNNING
+2021-12-23 00:23:51,733 Sleeping for 5s. Reason: RUNNING
+2021-12-23 00:23:57,983 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:24:06,263 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:24:14,537 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:24:22,793 Sleeping for 9s. Reason: RUNNING
+2021-12-23 00:24:33,069 Sleeping for 10s. Reason: RUNNING
+2021-12-23 00:24:44,351 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:24:52,631 Sleeping for 5s. Reason: RUNNING
+2021-12-23 00:24:58,912 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:25:07,166 Sleeping for 9s. Reason: RUNNING
+2021-12-23 00:25:17,416 Sleeping for 10s. Reason: RUNNING
+2021-12-23 00:25:28,699 Sleeping for 8s. Reason: RUNNING
+2021-12-23 00:25:38,001 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:25:46,275 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:25:54,576 Sleeping for 5s. Reason: RUNNING
+2021-12-23 00:26:00,850 Sleeping for 6s. Reason: RUNNING
+2021-12-23 00:26:08,101 Sleeping for 10s. Reason: RUNNING
+2021-12-23 00:26:19,404 Sleeping for 9s. Reason: RUNNING
+2021-12-23 00:26:38,539 Sleeping for 5s. Reason: PENDING
+2021-12-23 00:26:44,794 Sleeping for 7s. Reason: RUNNING
+2021-12-23 00:26:53,068 Sleeping for 8s. Reason: RUNNING
+2021-12-23 00:27:02,348 Sleeping for 9s. Reason: RUNNING
+2021-12-23 00:27:15,115 Running model_3
+2021-12-23 00:30:26,409 model_3 took 191.3s (None recycles) with pLDDT 94 and ptmscore 0.915
+2021-12-23 00:31:10,048 Running model_4
+2021-12-23 00:32:54,868 model_4 took 104.8s (None recycles) with pLDDT 94.4 and ptmscore 0.909
+2021-12-23 00:33:28,313 Running model_5
+2021-12-23 00:35:13,206 model_5 took 104.9s (None recycles) with pLDDT 94 and ptmscore 0.902
+2021-12-23 00:35:45,996 Running model_1
+2021-12-23 00:37:30,736 model_1 took 104.7s (None recycles) with pLDDT 94.4 and ptmscore 0.916
+2021-12-23 00:38:02,491 Running model_2
+2021-12-23 00:39:47,214 model_2 took 104.7s (None recycles) with pLDDT 93.2 and ptmscore 0.904
+2021-12-23 00:40:18,962 reranking models based on average ptmscore

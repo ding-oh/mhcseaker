@@ -1,0 +1,41 @@
+2021-12-23 04:37:44,806 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-23 04:37:44,809 Found 6 citations for tools or databases
+2021-12-23 04:37:53,124 Query 1/1: 2ipk (length 377)
+2021-12-23 04:37:54,438 Sleeping for 6s. Reason: PENDING
+2021-12-23 04:38:01,693 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:38:10,964 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:38:17,207 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:38:23,450 Sleeping for 9s. Reason: RUNNING
+2021-12-23 04:38:33,732 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:38:44,987 Sleeping for 9s. Reason: RUNNING
+2021-12-23 04:38:55,251 Sleeping for 9s. Reason: RUNNING
+2021-12-23 04:39:05,504 Sleeping for 6s. Reason: RUNNING
+2021-12-23 04:39:12,755 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:39:24,005 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:39:33,258 Sleeping for 6s. Reason: RUNNING
+2021-12-23 04:39:40,516 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:39:51,771 Sleeping for 7s. Reason: RUNNING
+2021-12-23 04:40:00,016 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:40:06,265 Sleeping for 9s. Reason: RUNNING
+2021-12-23 04:40:16,519 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:40:25,771 Sleeping for 6s. Reason: RUNNING
+2021-12-23 04:40:33,048 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:40:42,309 Sleeping for 7s. Reason: RUNNING
+2021-12-23 04:40:50,570 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:41:03,585 Sleeping for 9s. Reason: PENDING
+2021-12-23 04:41:13,841 Sleeping for 7s. Reason: RUNNING
+2021-12-23 04:41:22,092 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:41:35,648 Could not generate input features 2ipk: Invalid character in the sequence: (
+Traceback (most recent call last):
+  File "/gpfs/newton/others/colabfold/colabfold-conda/lib/python3.7/site-packages/colabfold/batch.py", line 1039, in run
+    model_type,
+  File "/gpfs/newton/others/colabfold/colabfold-conda/lib/python3.7/site-packages/colabfold/batch.py", line 753, in generate_input_feature
+    template_features[sequence_index],
+  File "/gpfs/newton/others/colabfold/colabfold-conda/lib/python3.7/site-packages/colabfold/batch.py", line 622, in build_monomer_feature
+    sequence=sequence, description="none", num_res=len(sequence)
+  File "/gpfs/newton/others/colabfold/colabfold-conda/lib/python3.7/site-packages/alphafold/data/pipeline.py", line 43, in make_sequence_features
+    map_unknown_to_x=True)
+  File "/gpfs/newton/others/colabfold/colabfold-conda/lib/python3.7/site-packages/alphafold/common/residue_constants.py", line 580, in sequence_to_onehot
+    raise ValueError(f'Invalid character in the sequence: {aa_type}')
+ValueError: Invalid character in the sequence: (
+2021-12-23 04:41:35,651 Done

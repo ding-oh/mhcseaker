@@ -1,0 +1,19 @@
+2021-12-22 20:13:26,743 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-22 20:13:26,747 Found 6 citations for tools or databases
+2021-12-22 20:13:32,140 Query 1/1: 1hqr (length 373)
+2021-12-22 20:13:38,080 Sleeping for 5s. Reason: PENDING
+2021-12-22 20:13:44,335 Sleeping for 7s. Reason: RUNNING
+2021-12-22 20:13:52,640 Sleeping for 6s. Reason: RUNNING
+2021-12-22 20:13:59,920 Sleeping for 9s. Reason: RUNNING
+2021-12-22 20:14:12,435 Running model_3
+2021-12-22 20:20:00,768 model_3 took 348.3s (None recycles) with pLDDT 95.9 and ptmscore 0.927
+2021-12-22 20:20:41,421 Running model_4
+2021-12-22 20:25:01,603 model_4 took 260.2s (None recycles) with pLDDT 95.4 and ptmscore 0.922
+2021-12-22 20:25:33,942 Running model_5
+2021-12-22 20:29:53,822 model_5 took 259.9s (None recycles) with pLDDT 95.4 and ptmscore 0.917
+2021-12-22 20:30:24,691 Running model_1
+2021-12-22 20:34:45,030 model_1 took 260.3s (None recycles) with pLDDT 95.9 and ptmscore 0.926
+2021-12-22 20:35:16,763 Running model_2
+2021-12-22 20:39:37,916 model_2 took 261.2s (None recycles) with pLDDT 95.3 and ptmscore 0.921
+2021-12-22 20:40:10,240 reranking models based on average ptmscore
+2021-12-22 20:40:16,299 Done

@@ -1,0 +1,39 @@
+2021-12-23 04:38:05,431 Running colabfold 1.2.0 (115646efb015774200e8fed535affa0641529f09)
+2021-12-23 04:38:05,445 Found 6 citations for tools or databases
+2021-12-23 04:38:11,447 Query 1/1: 2fse (length 372)
+2021-12-23 04:38:12,820 Sleeping for 8s. Reason: PENDING
+2021-12-23 04:38:22,074 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:38:31,323 Sleeping for 9s. Reason: RUNNING
+2021-12-23 04:38:41,603 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:38:47,851 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:38:57,140 Sleeping for 7s. Reason: RUNNING
+2021-12-23 04:39:05,421 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:39:19,026 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:39:28,278 Sleeping for 7s. Reason: RUNNING
+2021-12-23 04:39:36,531 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:39:47,790 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:39:54,042 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:40:00,292 Sleeping for 6s. Reason: RUNNING
+2021-12-23 04:40:07,545 Sleeping for 7s. Reason: RUNNING
+2021-12-23 04:40:15,811 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:40:22,106 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:40:31,359 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:40:37,619 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:40:46,871 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:40:58,125 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:41:04,379 Sleeping for 10s. Reason: RUNNING
+2021-12-23 04:41:21,943 Sleeping for 6s. Reason: PENDING
+2021-12-23 04:41:29,194 Sleeping for 8s. Reason: RUNNING
+2021-12-23 04:41:38,446 Sleeping for 6s. Reason: RUNNING
+2021-12-23 04:41:45,701 Sleeping for 5s. Reason: RUNNING
+2021-12-23 04:41:54,188 Running model_3
+2021-12-23 04:47:44,342 model_3 took 350.2s (None recycles) with pLDDT 95.2 and ptmscore 0.924
+2021-12-23 04:48:45,559 Running model_4
+2021-12-23 04:53:00,065 model_4 took 254.5s (None recycles) with pLDDT 95.9 and ptmscore 0.928
+2021-12-23 04:53:31,789 Running model_5
+2021-12-23 04:57:47,402 model_5 took 255.6s (None recycles) with pLDDT 96.3 and ptmscore 0.927
+2021-12-23 04:58:18,525 Running model_1
+2021-12-23 05:02:34,767 model_1 took 256.2s (None recycles) with pLDDT 95.9 and ptmscore 0.927
+2021-12-23 05:03:05,881 Running model_2
+2021-12-23 05:07:22,983 model_2 took 257.1s (None recycles) with pLDDT 95.6 and ptmscore 0.926
+2021-12-23 05:07:53,587 reranking models based on average ptmscore
